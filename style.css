@@ -1,3 +1,21 @@
-body {
+nav {
+  list-style-type: gurmukhi;
+  background-color: #fcbf49;
+  position: fixed;
+ width: 100vw;
+  top: 0;
+  left: 0;
+  padding: 15px;
+  color: black;
+  text-align: left;
+  
+  
+}
 
+a{
+  text-decoration: none;
+  color: #d62828;
+  
+  
+  
 }
